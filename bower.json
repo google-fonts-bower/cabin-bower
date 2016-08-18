@@ -1,0 +1,17 @@
+{
+    "name": "cabin-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Impallari Type"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/cabin-bower.git"
+    },
+    "description": "Cabin font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
